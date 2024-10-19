@@ -23,4 +23,4 @@
 ## Fundamentals
 
 * [Stochastic Processes](https://github.com/deltorobarba/finance/blob/main/stochastic.ipynb)
-* [Time Series Analysis)](https://github.com/deltorobarba/finance/blob/main/timeseries.ipynb)
+* [Time Series Analysis](https://github.com/deltorobarba/finance/blob/main/timeseries.ipynb)
