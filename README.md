@@ -1,4 +1,4 @@
-# Financial Asset Management
+# Computational Finance
 
 ### Alexander Del Toro Barba, PhD
 
