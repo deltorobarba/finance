@@ -12,6 +12,8 @@
 
 ## Portfolio Optimization
 
+Constructing and optimizing portfolios to achieve a desired risk-return balance
+
 * [Efficient Frontier (Mean-Variance Optimization)](https://github.com/deltorobarba/finance/blob/main/efficient_frontier.ipynb)
 * [Capital Asset Pricing Model (CAPM):)](https://github.com/deltorobarba/finance/blob/main/capm.ipynb)
 * [Black-Litterman Model](https://github.com/deltorobarba/finance/blob/main/black_litterman.ipynb)
@@ -21,6 +23,8 @@
 * [Heuristic Methods](https://github.com/deltorobarba/finance/blob/main/heuristic_methods.ipynb) (Genetic Algorithms and Simulated Annealing)
 
 ## Risk Management
+
+Identifying, assessing, and mitigating risks within a portfolio, particularly under extreme market conditions
 
 * [Black-Scholes Model (Option Pricing)](https://github.com/deltorobarba/finance/blob/main/black_scholes.ipynb)
 * [Value at Risk (VaR)](https://github.com/deltorobarba/finance/blob/main/var.ipynb)
