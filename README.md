@@ -20,6 +20,7 @@
 * [Value at Risk (VaR)](https://github.com/deltorobarba/finance/blob/main/var.ipynb)
 * [Conditional Value at Risk (CVaR)](https://github.com/deltorobarba/finance/blob/main/cvar.ipynb)
 * [Beta (Systematic Risk)](https://github.com/deltorobarba/finance/blob/main/beta.ipynb)
+* [Early Warning System (EWS)](https://github.com/deltorobarba/finance/blob/main/ews.ipynb)
 
 ## Fundamentals
 
