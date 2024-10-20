@@ -22,6 +22,7 @@
 * [Beta (Systematic Risk)](https://github.com/deltorobarba/finance/blob/main/beta.ipynb)
 * [Early Warning System (EWS)](https://github.com/deltorobarba/finance/blob/main/ews.ipynb)
 * [Maximum Drawdown (MDD)](https://github.com/deltorobarba/finance/blob/main/mmd.ipynb)
+* [Stress Testing](https://github.com/deltorobarba/finance/blob/main/stress.ipynb)
 
 ## Fundamentals
 
