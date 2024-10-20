@@ -15,7 +15,7 @@
 Constructing and optimizing portfolios to achieve a desired risk-return balance
 
 * [Efficient Frontier (Mean-Variance Optimization)](https://github.com/deltorobarba/finance/blob/main/efficient_frontier.ipynb)
-* [Capital Asset Pricing Model (CAPM):)](https://github.com/deltorobarba/finance/blob/main/capm.ipynb)
+* [Capital Asset Pricing Model (CAPM)](https://github.com/deltorobarba/finance/blob/main/capm.ipynb)
 * [Black-Litterman Model](https://github.com/deltorobarba/finance/blob/main/black_litterman.ipynb)
 * [Risk Parity](https://github.com/deltorobarba/finance/blob/main/risk_parity.ipynb)
 * [Factor Models (Fama-French)](https://github.com/deltorobarba/finance/blob/main/french_fama.ipynb)
