@@ -12,7 +12,13 @@
 
 ## Portfolio Optimization
 
-* [Efficient Frontier](https://github.com/deltorobarba/finance/blob/main/efficient_frontier.ipynb)
+* [Efficient Frontier (Mean-Variance Optimization)](https://github.com/deltorobarba/finance/blob/main/efficient_frontier.ipynb)
+* [Capital Asset Pricing Model (CAPM):)](https://github.com/deltorobarba/finance/blob/main/capm.ipynb)
+* [Black-Litterman Model](https://github.com/deltorobarba/finance/blob/main/black_litterman.ipynb)
+* [Risk Parity](https://github.com/deltorobarba/finance/blob/main/risk_parity.ipynb)
+* [Factor Models (Fama-French)](https://github.com/deltorobarba/finance/blob/main/french_fama.ipynb)
+* [Robust Optimization](https://github.com/deltorobarba/finance/blob/main/robust_optimization.ipynb)
+* [Heuristic Methods (Genetic Algorithms and Simulated Annealing)](https://github.com/deltorobarba/finance/blob/main/heuristic_methods.ipynb)
 
 ## Risk Management
 
