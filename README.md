@@ -18,7 +18,7 @@
 * [Risk Parity](https://github.com/deltorobarba/finance/blob/main/risk_parity.ipynb)
 * [Factor Models (Fama-French)](https://github.com/deltorobarba/finance/blob/main/french_fama.ipynb)
 * [Robust Optimization](https://github.com/deltorobarba/finance/blob/main/robust_optimization.ipynb)
-* [Heuristic Methods (Genetic Algorithms and Simulated Annealing)](https://github.com/deltorobarba/finance/blob/main/heuristic_methods.ipynb)
+* [Heuristic Methods](https://github.com/deltorobarba/finance/blob/main/heuristic_methods.ipynb) (Genetic Algorithms and Simulated Annealing)
 
 ## Risk Management
 
